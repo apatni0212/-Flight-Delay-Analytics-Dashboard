@@ -1,0 +1,24 @@
+                                                                      # ✈️ Flight Delay Analytics Dashboard (Power BI)
+
+This project analyzes U.S. domestic flight data to identify patterns of delays, reasons for cancellations, and airline performance. The insights are visualized in an interactive **Power BI dashboard** for quick analysis and decision-making.
+
+## Key Highlights
+- **186K+ flight records** analyzed
+- **28%** overall delay rate
+- **81 minutes** average delay duration
+- **Weather** caused **42%** of cancellations
+- Peak delays on **Thursday** and **Sunday**
+
+## What the Dashboard Shows
+- Delay trends by **weekday**, **month**, and **airport**
+- Airline **on-time performance** comparison
+- Cancellation breakdown by cause
+- Interactive filters for Airline, Airport, and Date
+
+## Tools Used
+- **Power BI** (Data modeling & visualization)
+- **Power Query** (Cleaning & transformation)
+- **Excel** (Initial processing)
+- **DAX** (KPI & calculations)
+
+## File Structure
